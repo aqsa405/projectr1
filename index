@@ -1,0 +1,6 @@
+<?php
+include('includes/head.php');
+include('includes/sidenav.php');
+include('includes/topnav.php');
+include('includes/scripts.php');
+?>
